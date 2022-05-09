@@ -28,7 +28,7 @@ I'm Data Analyst and I'm totally focused on solving problems and help you to mak
 
 <br>
 
-## Contatos:
+## Get in Touch:
 
 <div>
 

@@ -5,7 +5,7 @@ With a background in mathematics and Earth Science, I bring a unique skill set t
 
 I pride myself on being highly adaptable and resourceful, and I excel in communicating complex technical concepts to both technical and non-technical audiences. I am fluent in Portuguese and possess a strong command of the English language.
 
-Currently, I am seeking an opportunity to contribute and grow with a company in Canada, where I can apply my expertise and add value to the organization's data-driven initiatives.
+Currently, I am seeking an opportunity to contribute and grow with a company, where I can apply my expertise and add value to the organization's data-driven initiatives.
 
 <br>
 

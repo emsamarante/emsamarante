@@ -10,7 +10,7 @@ Currently, I am seeking an opportunity to contribute and grow with a company, wh
 <br>
 
 
-## :star: My mainly skills :star:
+## :star: My main skills :star:
 
 <div>
   

@@ -1,5 +1,5 @@
 # Hi, I am Eduardo :nerd_face:
-I am a dedicated Data Analyst, fully committed to problem-solving and providing valuable insights to support decision-making. My expertise lies in data analysis using statistical methods, and I have a strong foundation in implementing data warehouses, data modeling, and data lakes. I excel in creating comprehensive reports and dynamic dashboards that enable informed choices.
+I am a dedicated Data Scientist/Data Analyst, fully committed to problem-solving and providing valuable insights to support decision-making. My expertise lies in data analysis using statistical methods, and I have a strong foundation in implementing data warehouses, data modeling, and data lakes. I excel in creating comprehensive reports and dynamic dashboards that enable informed choices.
 
 With a background in mathematics and Earth Science, I bring a unique skill set to the field of data analysis. I am results-oriented and continuously seek opportunities for professional growth in the complexities of data analysis and personal development.
 
